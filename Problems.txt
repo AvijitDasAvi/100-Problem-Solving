@@ -1,0 +1,100 @@
+1.Hello World
+2.Fibonacci Sequence
+3.Palindrome Check
+4.Prime Number Check
+5.Factorial Calculation
+6.Bubble Sort
+7.Binary Search
+8.Merge Sort
+9.Quick Sort
+10.Insertion Sort
+11.Selection Sort
+12.Counting Sort
+13.Heap Sort
+14.Linear Search
+15.Reverse a String
+16.Count Vowels in a String
+17.String Anagram Check
+18.Find Duplicates in an Array
+19.Sum of Elements in an Array
+20.Matrix Multiplication
+21.Transpose of a Matrix
+22.Remove Duplicates from a List
+23.Find Missing Number in Array
+24.Find Largest Element in Array
+25.Find Smallest Element in Array
+26.Check Armstrong Number
+27.Check Perfect Number
+28.Sum of Digits of a Number
+29.Reverse a Number
+30.Count Number of Words in String
+31.Find GCD of Two Numbers
+32.Find LCM of Two Numbers
+33.Check Leap Year
+34.Calculate Power of a Number
+35.Generate Pascal's Triangle
+36.Decimal to Binary Conversion
+37.Binary to Decimal Conversion
+38.Find Second Largest Element in Array
+39.Check Magic Square
+40.Binary Search Tree Implementation
+41.Graph Representation and Traversal
+42.Dijkstra's Algorithm
+43.Floyd-Warshall Algorithm
+44.Prim's Algorithm
+45.Kruskal's Algorithm
+46.Topological Sort
+47.Depth First Search (DFS)
+48.Breadth First Search (BFS)
+49.Find All Permutations of a String
+50.Longest Common Subsequence
+31.Knapsack Problem
+52.Minimum Spanning Tree
+53.Edit Distance Problem
+54.Longest Increasing Subsequence
+55.Maximum Subarray Sum
+56.Coin Change Problem
+57.N-Queens Problem
+58.Sudoku Solver
+59.Rat in a Maze Problem
+60.Word Ladder Problem
+61.Balanced Parentheses Check
+62.Evaluate Postfix Expression
+63.Convert Infix to Postfix
+64.Find Intersection of Two Arrays
+65.Union of Two Arrays
+66.Check Balanced Binary Tree
+67.Level Order Traversal of Binary Tree
+68.Find Diameter of Binary Tree
+69.Inorder Traversal of Binary Tree
+70.Preorder Traversal of Binary Tree
+71.Postorder Traversal of Binary Tree
+72.Maximum Depth of Binary Tree
+73.Check Symmetric Binary Tree
+74.Mirror Image of Binary Tree
+75.Spiral Order Traversal of Matrix
+76.Rotate Matrix by 90 Degrees
+77.Flood Fill Algorithm
+78.Find Kth Smallest Element in Array
+79.Remove Nth Node from End of List
+80.Merge Two Sorted Lists
+81.Detect Cycle in Linked List
+82.Find Intersection Point of Two Linked Lists
+83.Clone a Linked List with Random Pointers
+84.LRU Cache Implementation
+85.Design a Stack with Min Operation
+86.Implement Queue using Stacks
+87.Implement Stack using Queues
+88.Design Tic-Tac-Toe
+89.LRU Cache Implementation
+90.Find Longest Palindromic Substring
+91.Check Subsequence
+92.Group Anagrams
+93.Find Median of Two Sorted Arrays
+94.Product of Array Except Self
+95.Best Time to Buy and Sell Stock
+96.Check if a Binary Tree is BST
+97.Serialize and Deserialize Binary Tree
+98.Implement Trie (Prefix Tree)
+99.Word Search in Grid
+100.Find Peak Element in Array
