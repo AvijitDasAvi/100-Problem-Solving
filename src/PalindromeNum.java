@@ -16,7 +16,7 @@ public class PalindromeNum {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter the number:");
         int num = input.nextInt();
-        if (isPalindrome(num) == true) {
+        if (isPalindrome(num)) {
             System.out.println(num + "- is Palindrome");
         } else {
             System.out.println(num + "- is not a Palindrome");

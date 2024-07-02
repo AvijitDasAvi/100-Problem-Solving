@@ -20,7 +20,7 @@ public class PalindromeArray {
         for (int i = 0; i < n; i++) {
             array[i] = input.nextInt();
         }
-        if (isArrayList(array) == true) {
+        if (isArrayList(array)) {
             System.out.println("This array elements is Palindrome.");
         } else {
             System.out.println("This array elements isn't Palindrome.");
