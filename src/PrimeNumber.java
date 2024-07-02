@@ -25,7 +25,7 @@ public class PrimeNumber {
         System.out.print("Enter the ending point to find Prime Number: ");
         int end = input.nextInt();
         PrimeNumber a = new PrimeNumber();
-        System.out.print("Prime Numbers of ( " + start + " to " + end + " ) : ");
+        System.out.print("\nPrime Numbers of ( " + start + " to " + end + " ) : ");
         for (int i = start; i <= end; i++) {
             a.primeNumber(i);
         }
